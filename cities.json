@@ -4,440 +4,629 @@
         "slug": "an-giang",
         "type": "tinh",
         "name_with_type": "Tỉnh An Giang",
-        "code": "89"
+        "code": "89",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Kon Tum",
         "slug": "kon-tum",
         "type": "tinh",
         "name_with_type": "Tỉnh Kon Tum",
-        "code": "62"
+        "code": "62",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Đắk Nông",
         "slug": "dak-nong",
         "type": "tinh",
         "name_with_type": "Tỉnh Đắk Nông",
-        "code": "67"
+        "code": "67",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Sóc Trăng",
         "slug": "soc-trang",
         "type": "tinh",
         "name_with_type": "Tỉnh Sóc Trăng",
-        "code": "94"
+        "code": "94",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Bình Phước",
         "slug": "binh-phuoc",
         "type": "tinh",
         "name_with_type": "Tỉnh Bình Phước",
-        "code": "70"
+        "code": "70",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Hưng Yên",
         "slug": "hung-yen",
         "type": "tinh",
         "name_with_type": "Tỉnh Hưng Yên",
-        "code": "33"
+        "code": "33",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Thanh Hóa",
         "slug": "thanh-hoa",
         "type": "tinh",
         "name_with_type": "Tỉnh Thanh Hóa",
-        "code": "38"
+        "code": "38",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Quảng Trị",
         "slug": "quang-tri",
         "type": "tinh",
         "name_with_type": "Tỉnh Quảng Trị",
-        "code": "45"
+        "code": "45",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Tuyên Quang",
         "slug": "tuyen-quang",
         "type": "tinh",
         "name_with_type": "Tỉnh Tuyên Quang",
-        "code": "08"
+        "code": "08",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Quảng Ngãi",
         "slug": "quang-ngai",
         "type": "tinh",
         "name_with_type": "Tỉnh Quảng Ngãi",
-        "code": "51"
+        "code": "51",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Hà Nội",
         "slug": "ha-noi",
         "type": "thanh-pho",
         "name_with_type": "Thành phố Hà Nội",
-        "code": "01"
+        "code": "01",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Lào Cai",
         "slug": "lao-cai",
         "type": "tinh",
         "name_with_type": "Tỉnh Lào Cai",
-        "code": "10"
+        "code": "10",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Vĩnh Long",
         "slug": "vinh-long",
         "type": "tinh",
         "name_with_type": "Tỉnh Vĩnh Long",
-        "code": "86"
+        "code": "86",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Lâm Đồng",
         "slug": "lam-dong",
         "type": "tinh",
         "name_with_type": "Tỉnh Lâm Đồng",
-        "code": "68"
+        "code": "68",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Bình Định",
         "slug": "binh-dinh",
         "type": "tinh",
         "name_with_type": "Tỉnh Bình Định",
-        "code": "52"
+        "code": "52",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Nghệ An",
         "slug": "nghe-an",
         "type": "tinh",
         "name_with_type": "Tỉnh Nghệ An",
-        "code": "40"
+        "code": "40",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Kiên Giang",
         "slug": "kien-giang",
         "type": "tinh",
         "name_with_type": "Tỉnh Kiên Giang",
-        "code": "91"
+        "code": "91",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Hà Giang",
         "slug": "ha-giang",
         "type": "tinh",
         "name_with_type": "Tỉnh Hà Giang",
-        "code": "02"
+        "code": "02",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Phú Yên",
         "slug": "phu-yen",
         "type": "tinh",
         "name_with_type": "Tỉnh Phú Yên",
-        "code": "54"
+        "code": "54",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Lạng Sơn",
         "slug": "lang-son",
         "type": "tinh",
         "name_with_type": "Tỉnh Lạng Sơn",
-        "code": "20"
+        "code": "20",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Đà Nẵng",
         "slug": "da-nang",
         "type": "thanh-pho",
         "name_with_type": "Thành phố Đà Nẵng",
-        "code": "48"
+        "code": "48",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Sơn La",
         "slug": "son-la",
         "type": "tinh",
         "name_with_type": "Tỉnh Sơn La",
-        "code": "14"
+        "code": "14",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Tây Ninh",
         "slug": "tay-ninh",
         "type": "tinh",
         "name_with_type": "Tỉnh Tây Ninh",
-        "code": "72"
+        "code": "72",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Nam Định",
         "slug": "nam-dinh",
         "type": "tinh",
         "name_with_type": "Tỉnh Nam Định",
-        "code": "36"
+        "code": "36",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Lai Châu",
         "slug": "lai-chau",
         "type": "tinh",
         "name_with_type": "Tỉnh Lai Châu",
-        "code": "12"
+        "code": "12",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Bến Tre",
         "slug": "ben-tre",
         "type": "tinh",
         "name_with_type": "Tỉnh Bến Tre",
-        "code": "83"
+        "code": "83",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Khánh Hòa",
         "slug": "khanh-hoa",
         "type": "tinh",
         "name_with_type": "Tỉnh Khánh Hòa",
-        "code": "56"
+        "code": "56",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Bình Thuận",
         "slug": "binh-thuan",
         "type": "tinh",
         "name_with_type": "Tỉnh Bình Thuận",
-        "code": "60"
+        "code": "60",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Cao Bằng",
         "slug": "cao-bang",
         "type": "tinh",
         "name_with_type": "Tỉnh Cao Bằng",
-        "code": "04"
+        "code": "04",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Hải Phòng",
         "slug": "hai-phong",
         "type": "thanh-pho",
         "name_with_type": "Thành phố Hải Phòng",
-        "code": "31"
+        "code": "31",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Ninh Bình",
         "slug": "ninh-binh",
         "type": "tinh",
         "name_with_type": "Tỉnh Ninh Bình",
-        "code": "37"
+        "code": "37",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Yên Bái",
         "slug": "yen-bai",
         "type": "tinh",
         "name_with_type": "Tỉnh Yên Bái",
-        "code": "15"
+        "code": "15",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Gia Lai",
         "slug": "gia-lai",
         "type": "tinh",
         "name_with_type": "Tỉnh Gia Lai",
-        "code": "64"
+        "code": "64",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Hoà Bình",
         "slug": "hoa-binh",
         "type": "tinh",
         "name_with_type": "Tỉnh Hoà Bình",
-        "code": "17"
+        "code": "17",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Bà Rịa - Vũng Tàu",
         "slug": "ba-ria-vung-tau",
         "type": "tinh",
         "name_with_type": "Tỉnh Bà Rịa - Vũng Tàu",
-        "code": "77"
+        "code": "77",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Cà Mau",
         "slug": "ca-mau",
         "type": "tinh",
         "name_with_type": "Tỉnh Cà Mau",
-        "code": "96"
+        "code": "96",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Bình Dương",
         "slug": "binh-duong",
         "type": "tinh",
         "name_with_type": "Tỉnh Bình Dương",
-        "code": "74"
+        "code": "74",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Cần Thơ",
         "slug": "can-tho",
         "type": "thanh-pho",
         "name_with_type": "Thành phố Cần Thơ",
-        "code": "92"
+        "code": "92",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Thừa Thiên Huế",
         "slug": "thua-thien-hue",
         "type": "tinh",
         "name_with_type": "Tỉnh Thừa Thiên Huế",
-        "code": "46"
+        "code": "46",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Đồng Nai",
         "slug": "dong-nai",
         "type": "tinh",
         "name_with_type": "Tỉnh Đồng Nai",
-        "code": "75"
+        "code": "75",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Tiền Giang",
         "slug": "tien-giang",
         "type": "tinh",
         "name_with_type": "Tỉnh Tiền Giang",
-        "code": "82"
+        "code": "82",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Điện Biên",
         "slug": "dien-bien",
         "type": "tinh",
         "name_with_type": "Tỉnh Điện Biên",
-        "code": "11"
+        "code": "11",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Vĩnh Phúc",
         "slug": "vinh-phuc",
         "type": "tinh",
         "name_with_type": "Tỉnh Vĩnh Phúc",
-        "code": "26"
+        "code": "26",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Quảng Nam",
         "slug": "quang-nam",
         "type": "tinh",
         "name_with_type": "Tỉnh Quảng Nam",
-        "code": "49"
+        "code": "49",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Đắk Lắk",
         "slug": "dak-lak",
         "type": "tinh",
         "name_with_type": "Tỉnh Đắk Lắk",
-        "code": "66"
+        "code": "66",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Thái Nguyên",
         "slug": "thai-nguyen",
         "type": "tinh",
         "name_with_type": "Tỉnh Thái Nguyên",
-        "code": "19"
+        "code": "19",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Hải Dương",
         "slug": "hai-duong",
         "type": "tinh",
         "name_with_type": "Tỉnh Hải Dương",
-        "code": "30"
+        "code": "30",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Bạc Liêu",
         "slug": "bac-lieu",
         "type": "tinh",
         "name_with_type": "Tỉnh Bạc Liêu",
-        "code": "95"
+        "code": "95",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Trà Vinh",
         "slug": "tra-vinh",
         "type": "tinh",
         "name_with_type": "Tỉnh Trà Vinh",
-        "code": "84"
+        "code": "84",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Thái Bình",
         "slug": "thai-binh",
         "type": "tinh",
         "name_with_type": "Tỉnh Thái Bình",
-        "code": "34"
+        "code": "34",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Hà Tĩnh",
         "slug": "ha-tinh",
         "type": "tinh",
         "name_with_type": "Tỉnh Hà Tĩnh",
-        "code": "42"
+        "code": "42",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Ninh Thuận",
         "slug": "ninh-thuan",
         "type": "tinh",
         "name_with_type": "Tỉnh Ninh Thuận",
-        "code": "58"
+        "code": "58",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Đồng Tháp",
         "slug": "dong-thap",
         "type": "tinh",
         "name_with_type": "Tỉnh Đồng Tháp",
-        "code": "87"
+        "code": "87",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Long An",
         "slug": "long-an",
         "type": "tinh",
         "name_with_type": "Tỉnh Long An",
-        "code": "80"
+        "code": "80",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Hậu Giang",
         "slug": "hau-giang",
         "type": "tinh",
         "name_with_type": "Tỉnh Hậu Giang",
-        "code": "93"
+        "code": "93",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Quảng Ninh",
         "slug": "quang-ninh",
         "type": "tinh",
         "name_with_type": "Tỉnh Quảng Ninh",
-        "code": "22"
+        "code": "22",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Phú Thọ",
         "slug": "phu-tho",
         "type": "tinh",
         "name_with_type": "Tỉnh Phú Thọ",
-        "code": "25"
+        "code": "25",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Quảng Bình",
         "slug": "quang-binh",
         "type": "tinh",
         "name_with_type": "Tỉnh Quảng Bình",
-        "code": "44"
+        "code": "44",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Hồ Chí Minh",
         "slug": "ho-chi-minh",
         "type": "thanh-pho",
         "name_with_type": "Thành phố Hồ Chí Minh",
-        "code": "79"
+        "code": "79",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Hà Nam",
         "slug": "ha-nam",
         "type": "tinh",
         "name_with_type": "Tỉnh Hà Nam",
-        "code": "35"
+        "code": "35",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Bắc Ninh",
         "slug": "bac-ninh",
         "type": "tinh",
         "name_with_type": "Tỉnh Bắc Ninh",
-        "code": "27"
+        "code": "27",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Bắc Giang",
         "slug": "bac-giang",
         "type": "tinh",
         "name_with_type": "Tỉnh Bắc Giang",
-        "code": "24"
+        "code": "24",
+        "districts":[
+            
+        ]
     },
     {
         "name": "Bắc Kạn",
         "slug": "bac-kan",
         "type": "tinh",
         "name_with_type": "Tỉnh Bắc Kạn",
-        "code": "06"
+        "code": "06",
+        "districts":[
+            
+        ]
     }
 ]
